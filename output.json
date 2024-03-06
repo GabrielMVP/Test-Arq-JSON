@@ -1,0 +1,29 @@
+[
+   {
+      "id": 1,
+      "nome": "Notebook",
+      "marca": "Dell",
+      "categoria": "Eletrônicos",
+      "preco": 3500,
+      "quantidade_estoque": 10,
+      "pronta_entrega": true
+   },
+   {
+      "id": 2,
+      "nome": "Smartphone",
+      "marca": "Samsung",
+      "categoria": "Eletrônicos",
+      "preco": 1500,
+      "quantidade_estoque": 20,
+      "pronta_entrega": true
+   },
+   {
+      "id": 3,
+      "nome": "Fone de Ouvido",
+      "marca": "Sony",
+      "categoria": "Acessórios",
+      "preco": 200,
+      "quantidade_estoque": 30,
+      "pronta_entrega": false
+   }
+]
